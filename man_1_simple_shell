@@ -1,4 +1,4 @@
-.TH hsh 1 "AUGUST 10, 2022" "1.0" "hsh (simple_shell) Man Page"
+.TH hsh 1 "November 10, 2022" "1.0" "hsh (simple_shell) Man Page"
 
 .SH NAME
 
@@ -122,8 +122,8 @@ Please report any issues/bugs to the contributors listed in the AUTHORs section.
 
 .SH AUTHOR
 
-Ndinda Kikoma 
-Victor Ejiogu 
+Nicholus Mwendwa 
+Kadima Keith
 
 
 .SH SEE ALSO
