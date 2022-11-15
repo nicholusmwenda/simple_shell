@@ -74,7 +74,7 @@ print_error.c ---------------------- prints special error messages for certain f
 ## How To Install, Compile, and Use
 Install and Compile
 ```
-(your_terminal)$ git clone https://github.com/lweyajoe/simple_shell.git
+(your_terminal)$ git clone < repo_url >
 (your_terminal)$ cd simple_shell
 (your_terminal)$ gcc -Wall -Werror -Wextra -pedantic -Wno-format *.c -o simple_shell
 ```
